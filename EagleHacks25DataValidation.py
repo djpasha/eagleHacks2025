@@ -1,8 +1,12 @@
 import csv
 import re
+import pandas as pd
 with open('messy_rental_data_updated.csv', mode='r') as file:
-    csvFile = csv.reader(file)
     
+    df = pd.read_csv("messy_rental_data_updated.csv")
+    
+    del df['Rental_Car_License_Plate']
+
     # Function to ensure that the number is valid
     def is_valid_phone(phone):
         # Check if the phone number has exactly 10 digits and maybe one hyphen
@@ -58,4 +62,3 @@ with open('messy_rental_data_updated.csv', mode='r') as file:
                 print(updated_row)
 
             print("\n")
-
