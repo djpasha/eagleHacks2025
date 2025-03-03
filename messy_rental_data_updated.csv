@@ -1,30 +1,30 @@
-Customer_Name,Phone_Number,Email,Rental_Car_Model,Rental_Car_License_Plate,Rental_Start_Date,Rental_End_Date
-Aaron Lowe,213.475.0800,jchandler@hotmail.com,Toyota Camry,899 QPR,2024-08-01,00/00/0000
-Heather Moore,INVALID,ryan55@weber-johnson.biz,Toyota Camry,586WS,2024-10-11,2025-07-05
-Sandra Bryant,733.334.6863x8028,brennanmelissa@barrett.com,,XXX-????,2024-11-23,2026-12-13
-???,279.637.3452x553,kwood@reid.info,Honda Civic,0E 67293,2023-05-17,2027-02-01
-Michelle Lloyd,(573)805-0000,bgeorge@glass-ortiz.com,Honda Civic,0845,2025-01-12,2026-03-25
-Elizabeth Mitchell,001-178-856-7328x5020,garciathomas@yahoo.com,Toyota Camry,I45 1HN,2024-07-01,2025-02-25
-Lori Jones,001-435-076-1168x504,darrellwalton@lee-washington.com,Honda Civic,PCN-4675,2023-07-18,2026-10-09
-Ronald Rhodes,895-112-1210x48192,briannajohnson@henry.com,Ford F-150,XXX-????,2024-08-05,00/00/0000
-Amanda Bailey,INVALID,tayloramanda@hancock.com,Honda Civic,615ZVV,2023-10-31,2026-10-06
-Johnny Thomas,+1-539-115-4934,wnorman@diaz.com,Ford F-150,6-8825I,2023-03-17,2025-03-01
-Kayla Horne,812.645.1288x4339,qlawrence@gmail.com,???,236W,2023-08-20,2025-03-03
-Leslie Russell,INVALID,theresa36@hotmail.com,Honda Civic,XXX-????,2024-06-14,2025-02-25
-Jade Vang,+1-114-143-2724x31684,colealan@gmail.com,???,XXX-????,2024-03-05,2026-01-27
-David Rocha,239-526-5577x98027,melissagonzalez@berg.com,Honda Civic,916 TBZ,2024-10-10,2027-01-09
-Jacob Cole,INVALID,apayne@brown.biz,???,485-CAS,2024-12-24,2026-12-11
-James Hall,+1-799-202-2585x809,not_an_email,,247 OCC,2023-11-22,2026-11-03
-Michael White,(172)972-2437,ymorgan@gmail.com,???,C23-UZU,2025-02-16,2025-06-04
-Timothy Thornton,216-492-9167,scott28@dunn-taylor.com,Toyota Camry,4TL 835,32/13/2023,2025-04-13
-Jonathan Davis,001-378-446-0169x6534,april60@gmail.com,???,XXX-????,2024-12-26,2026-08-02
-Tanya Larson,001-064-675-4065x34370,ysanchez@cox-may.com,Honda Civic,015 EQ7,2024-07-03,2025-09-12
-???,345-079-3553x161,jonathanchang@alvarez.org,Honda Civic,831-PWM,2024-05-22,2026-08-22
-Benjamin Galvan,314-404-5961x0984,not_an_email,Ford F-150,13YQ721,2023-08-21,2026-04-26
-???,+1-681-777-8591,morrisvalerie@smith-murray.biz,Ford F-150,54F LD4,2023-10-21,2026-06-12
-Monica Johnson,120-653-0260,not_an_email,Ford F-150,885-MWT,2024-06-30,2026-01-30
-Isaac Deleon,+1-096-472-6061x454,stephenwilson@alexander.com,Toyota Camry,703 XMM,32/13/2023,2026-05-24
-Dustin Moody,INVALID,riverajeffrey@yahoo.com,???,U89-YST,2024-09-20,2026-12-28
-Scott Sims,INVALID,wendy50@roberts.com,,ZWK 249,2023-06-21,2026-03-25
-Teresa Lee,+1-670-939-6970x423,dudleyjohn@parks.com,Toyota Camry,775 RZ0,2023-10-04,2026-02-13
-Martha Miller,001-247-849-6052x013,brenda78@hotmail.com,,XXX-????,2024-06-21,2026-06-05
+Customer_Name,Phone_Number,Email,Rental_Car_Model,Rental_Start_Date,Rental_End_Date
+Aaron Lowe,2134750800,jchandler@hotmail.com,Toyota Camry,7/31/2024,00/00/0000
+Heather Moore,INVALID,ryan55@weber-johnson.biz,Toyota Camry,10/10/2024,7/4/2025
+Sandra Bryant,73333468638028,brennanmelissa@barrett.com,,11/22/2024,12/12/2026
+???,2796373452553,kwood@reid.info,Honda Civic,5/16/2023,1/31/2027
+Michelle Lloyd,5738050000,bgeorge@glass-ortiz.com,Honda Civic,1/11/2025,3/24/2026
+Elizabeth Mitchell,17885673285020,garciathomas@yahoo.com,Toyota Camry,6/30/2024,2/24/2025
+Lori Jones,4350761168504,darrellwalton@lee-washington.com,Honda Civic,7/17/2023,10/8/2026
+Ronald Rhodes,895112121048192,briannajohnson@henry.com,Ford F-150,8/4/2024,00/00/0000
+Amanda Bailey,INVALID,tayloramanda@hancock.com,Honda Civic,10/30/2023,10/5/2026
+Johnny Thomas,-5587,wnorman@diaz.com,Ford F-150,3/16/2023,2/28/2025
+Kayla Horne,81264512884339,qlawrence@gmail.com,???,8/19/2023,3/2/2025
+Leslie Russell,INVALID,theresa36@hotmail.com,Honda Civic,6/13/2024,2/24/2025
+Jade Vang,114143272431684,colealan@gmail.com,???,3/4/2024,1/26/2026
+David Rocha,239526557798027,melissagonzalez@berg.com,Honda Civic,10/9/2024,1/8/2027
+Jacob Cole,INVALID,apayne@brown.biz,???,12/23/2024,12/10/2026
+James Hall,7992022585809,not_an_email,,11/21/2023,11/2/2026
+Michael White,1729722437,ymorgan@gmail.com,???,2/15/2025,6/3/2025
+Timothy Thornton,2164929167,scott28@dunn-taylor.com,Toyota Camry,32/13/2022,4/12/2025
+Jonathan Davis,37844601696534,april60@gmail.com,???,12/25/2024,8/1/2026
+Tanya Larson,64675406534370,ysanchez@cox-may.com,Honda Civic,7/2/2024,9/11/2025
+???,3450793553161,jonathanchang@alvarez.org,Honda Civic,5/21/2024,8/21/2026
+Benjamin Galvan,31440459610984,not_an_email,Ford F-150,8/20/2023,4/25/2026
+???,6817778591,morrisvalerie@smith-murray.biz,Ford F-150,10/20/2023,6/11/2026
+Monica Johnson,1206530260,not_an_email,Ford F-150,6/29/2024,1/29/2026
+Isaac Deleon,964726061454,stephenwilson@alexander.com,Toyota Camry,32/13/2022,5/23/2026
+Dustin Moody,INVALID,riverajeffrey@yahoo.com,???,9/19/2024,12/27/2026
+Scott Sims,INVALID,wendy50@roberts.com,,6/20/2023,3/24/2026
+Teresa Lee,6709396970423,dudleyjohn@parks.com,Toyota Camry,10/3/2023,2/12/2026
+Martha Miller,2478496052013,brenda78@hotmail.com,,6/20/2024,6/4/2026
