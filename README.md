@@ -1,4 +1,4 @@
-# eagleHacks2025
+# eagleHacks2025 / Data Validator
 Team Rocket project for eagle hacks 2025
 
 python application that takes a pre-generated dataset with incorrect values for name, phone number, email, date, etc. and produces an updated CSV
